@@ -1,0 +1,6 @@
+/lib/*
+!/lib/.gitkeep
+/cs-info/*
+!/cs-info/.gitkeep
+*.json
+/__pycache__/*

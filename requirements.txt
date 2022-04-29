@@ -1,0 +1,4 @@
+selenium
+discord
+webdriver_manager
+chromedriver-binary
